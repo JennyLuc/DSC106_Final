@@ -84,6 +84,13 @@ html {
     background: #EFDECD;
     padding: 40px;
 }
+.whatwedo-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+    padding:50px;
+}
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
 	background-color: #F0F0F0;
